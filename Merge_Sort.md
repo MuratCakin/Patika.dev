@@ -13,6 +13,7 @@ Peki daha hızlı bir şekilde sıralama yapılabilir mi? Evet, Merge Sort burad
 [16,21,11,8,12,22] -> Merge Sort
 
 a)Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
+
 b)Big-O gösterimini yazınız.
 
 >CEVAP:
