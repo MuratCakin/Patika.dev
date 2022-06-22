@@ -12,6 +12,8 @@ Aradığım sayı 15 ve benim değer kümem [10,15,20,16,22,36,23] diyelim. Bina
 (root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.)
 
 >CEVAP:  
+>İlk eleman root olarak seçilir.  
+Sonra gelen elemanlar root dan aşağı doğru bakılarak büyükse sağa küçükse sola dallanır.
 	
 |             |  |  |     |  |  |  |  |  |  |  |  |
 |--           |--|--|-    |- |- |- |- |- |- |- |- |
